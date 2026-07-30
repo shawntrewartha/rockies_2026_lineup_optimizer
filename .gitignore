@@ -1,0 +1,10 @@
+# Raw Statcast data -- large, regenerable via gather_mlb_data.py
+Baseball Projects/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code local settings
+.claude/

@@ -1,0 +1,40 @@
+Gathering player lookup table. This may take a moment.
+--- vs RHP  (40320 distinct lineups, 54.8s) ---
+Best 10:
+  4.7557 runs/game:  Tj Rumfield -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Willi Castro -> Edouard Julien -> Kyle Karros -> Tyler Freeman -> Troy Johnston
+  4.7555 runs/game:  Tj Rumfield -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Willi Castro -> Edouard Julien -> Tyler Freeman -> Kyle Karros -> Troy Johnston
+  4.7548 runs/game:  Tj Rumfield -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Willi Castro -> Kyle Karros -> Edouard Julien -> Tyler Freeman -> Troy Johnston
+  4.7544 runs/game:  Tj Rumfield -> Troy Johnston -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Willi Castro -> Edouard Julien -> Kyle Karros -> Tyler Freeman
+  4.7541 runs/game:  Tj Rumfield -> Troy Johnston -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Willi Castro -> Edouard Julien -> Tyler Freeman -> Kyle Karros
+  4.7541 runs/game:  Tj Rumfield -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Edouard Julien -> Willi Castro -> Tyler Freeman -> Kyle Karros -> Troy Johnston
+  4.7541 runs/game:  Tj Rumfield -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Edouard Julien -> Willi Castro -> Kyle Karros -> Tyler Freeman -> Troy Johnston
+  4.7536 runs/game:  Tj Rumfield -> Hunter Goodman -> Jake Mccarthy -> Ezequiel Tovar -> Willi Castro -> Edouard Julien -> Kyle Karros -> Tyler Freeman -> Troy Johnston
+  4.7535 runs/game:  Tj Rumfield -> Hunter Goodman -> Jake Mccarthy -> Ezequiel Tovar -> Willi Castro -> Edouard Julien -> Tyler Freeman -> Kyle Karros -> Troy Johnston
+  4.7535 runs/game:  Tj Rumfield -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Willi Castro -> Tyler Freeman -> Kyle Karros -> Edouard Julien -> Troy Johnston
+Worst 3 (for contrast):
+  4.7198 runs/game:  Tj Rumfield -> Troy Johnston -> Willi Castro -> Kyle Karros -> Tyler Freeman -> Edouard Julien -> Ezequiel Tovar -> Jake Mccarthy -> Hunter Goodman
+  4.7197 runs/game:  Tj Rumfield -> Troy Johnston -> Kyle Karros -> Tyler Freeman -> Edouard Julien -> Willi Castro -> Ezequiel Tovar -> Jake Mccarthy -> Hunter Goodman
+  4.7194 runs/game:  Tj Rumfield -> Troy Johnston -> Kyle Karros -> Tyler Freeman -> Edouard Julien -> Ezequiel Tovar -> Willi Castro -> Jake Mccarthy -> Hunter Goodman
+Naive (2026-PA-rank) order: 4.7406 runs/game
+Spread best-worst: 0.0362 runs/game (5.9 runs/162-game season)
+Gain best vs naive: 0.0151 runs/game (2.4 runs/season)
+
+--- vs LHP  (40320 distinct lineups, 47.1s) ---
+Best 10:
+  4.2025 runs/game:  Tj Rumfield -> Kyle Karros -> Jake Mccarthy -> Willi Castro -> Hunter Goodman -> Ezequiel Tovar -> Troy Johnston -> Tyler Freeman -> Edouard Julien
+  4.2018 runs/game:  Tj Rumfield -> Edouard Julien -> Kyle Karros -> Jake Mccarthy -> Willi Castro -> Hunter Goodman -> Ezequiel Tovar -> Troy Johnston -> Tyler Freeman
+  4.2013 runs/game:  Tj Rumfield -> Kyle Karros -> Jake Mccarthy -> Willi Castro -> Hunter Goodman -> Ezequiel Tovar -> Tyler Freeman -> Troy Johnston -> Edouard Julien
+  4.2013 runs/game:  Tj Rumfield -> Kyle Karros -> Jake Mccarthy -> Willi Castro -> Hunter Goodman -> Troy Johnston -> Ezequiel Tovar -> Tyler Freeman -> Edouard Julien
+  4.2009 runs/game:  Tj Rumfield -> Kyle Karros -> Willi Castro -> Jake Mccarthy -> Hunter Goodman -> Ezequiel Tovar -> Troy Johnston -> Tyler Freeman -> Edouard Julien
+  4.2009 runs/game:  Tj Rumfield -> Kyle Karros -> Jake Mccarthy -> Willi Castro -> Hunter Goodman -> Ezequiel Tovar -> Troy Johnston -> Edouard Julien -> Tyler Freeman
+  4.2008 runs/game:  Tj Rumfield -> Edouard Julien -> Kyle Karros -> Jake Mccarthy -> Willi Castro -> Hunter Goodman -> Ezequiel Tovar -> Tyler Freeman -> Troy Johnston
+  4.2007 runs/game:  Tj Rumfield -> Hunter Goodman -> Ezequiel Tovar -> Troy Johnston -> Tyler Freeman -> Edouard Julien -> Kyle Karros -> Jake Mccarthy -> Willi Castro
+  4.2007 runs/game:  Tj Rumfield -> Kyle Karros -> Jake Mccarthy -> Willi Castro -> Hunter Goodman -> Tyler Freeman -> Ezequiel Tovar -> Troy Johnston -> Edouard Julien
+  4.2006 runs/game:  Tj Rumfield -> Edouard Julien -> Kyle Karros -> Jake Mccarthy -> Willi Castro -> Hunter Goodman -> Troy Johnston -> Ezequiel Tovar -> Tyler Freeman
+Worst 3 (for contrast):
+  4.1792 runs/game:  Tj Rumfield -> Tyler Freeman -> Kyle Karros -> Edouard Julien -> Troy Johnston -> Ezequiel Tovar -> Hunter Goodman -> Jake Mccarthy -> Willi Castro
+  4.1787 runs/game:  Tj Rumfield -> Willi Castro -> Tyler Freeman -> Kyle Karros -> Edouard Julien -> Troy Johnston -> Ezequiel Tovar -> Hunter Goodman -> Jake Mccarthy
+  4.1785 runs/game:  Tj Rumfield -> Tyler Freeman -> Willi Castro -> Kyle Karros -> Edouard Julien -> Troy Johnston -> Ezequiel Tovar -> Hunter Goodman -> Jake Mccarthy
+Naive (2026-PA-rank) order: 4.1924 runs/game
+Spread best-worst: 0.0239 runs/game (3.9 runs/162-game season)
+Gain best vs naive: 0.0100 runs/game (1.6 runs/season)

@@ -8,6 +8,14 @@ pa = add_batter_names(pa)
 # Wider candidate pool (default n=15) -- NOT the final 9. Who actually
 # makes the lineup is decided per-hand below.
 roster, counts = get_current_roster(pa)
+
+# Brenton Doyle is no longer on the Rockies -- remove him from the
+# candidate pool entirely so he can't be selected into either lineup.
+roster = [name for name in roster if name != 'Brenton Doyle']
+print(f'Candidate pool after removing Brenton Doyle ({len(roster)} players):')
+print(roster)
+print()
+
 rates, debug_df, league = compute_split_rates(pa, roster, k=150)
 
 # ---------------------------------------------------------------------

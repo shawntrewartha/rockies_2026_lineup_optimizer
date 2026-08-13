@@ -4,7 +4,7 @@ Determines the run-maximizing batting order for the Colorado Rockies against rig
 
 > Full Article: *https://blakestreetbanter.com/2026/08/12/rockies-data-driven-lineup-optimization/*
 
-## What this actually does
+## What is accomplished?
 
 Given a pool of candidate hitters, the project answers two questions separately for vs-RHP and vs-LHP:
 
